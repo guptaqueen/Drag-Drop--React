@@ -29,6 +29,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+ 
 }
 
 .task_status {
@@ -44,7 +45,7 @@
 .task_submit {
   font-size: 16px;
   font-weight: 500;
-  background-color: #6457f9;
+  background-color: #5048ea;
   color: #fff;
   border-radius: 5px;
   height: 40px;
